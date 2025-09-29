@@ -1,5 +1,11 @@
 
-$primary: yellow;
+$primary: #896044;
+$secondary: #36251B;
+$light: #F5F5DD;
 
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
 
+.label {
+    display: inline-block;
+    width: 180px; /* adjust width to create spacing */
+}
