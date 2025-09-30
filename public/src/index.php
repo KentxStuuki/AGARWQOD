@@ -22,6 +22,11 @@
 
     <!-- Marketing Seciton -->
     <?php include 'components/marketing.php' ?>
+
+    <!-- Financial Seciton -->
+    <?php include 'components/financial.php' ?>
+
+    <script src="../main/scripts/index.js"></script>
 </body>
 
 </html>

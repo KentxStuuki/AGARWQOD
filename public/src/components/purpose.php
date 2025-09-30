@@ -50,11 +50,5 @@
 </div>
 
 <script>
-    const moreText = document.getElementById("moreText");
-    const btn = document.getElementById("readMoreBtn");
 
-    btn.addEventListener("click", () => {
-        moreText.classList.toggle("hidden"); // toggle visibility
-        btn.textContent = moreText.classList.contains("hidden") ? "Read More" : "Read Less";
-    });
 </script>
