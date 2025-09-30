@@ -5,3 +5,11 @@
     --third: #F5F5DD;
 }
 
+.marketing_section {
+    background-image: url('../images/marketing_section/mar.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; /* ensures the image covers the whole section */
+    width: 100%;            /* full width */
+    min-height: 400px;      /* or whatever height you need */
+}
