@@ -11,7 +11,11 @@
     <!-- Abstract Seciton -->
     <?php include 'components/abstract.php'?>    
 
-    <!-- Abstract Seciton -->
+    <!-- Project Seciton -->
     <?php include 'components/project.php'?>    
+
+    
+    <!-- Purpose Seciton -->
+    <?php include 'components/purpose.php'?>    
 </body>
 </html>
