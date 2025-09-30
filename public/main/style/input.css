@@ -1,0 +1,11 @@
+@import "tailwindcss";
+:root{
+    --primary: #896044;
+    --secondary: #36251B;
+    --third: #F5F5DD;
+}
+
+.label {
+    display: inline-block;
+    width: 180px; 
+}

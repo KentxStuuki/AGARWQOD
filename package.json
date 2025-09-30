@@ -1,7 +1,7 @@
 {
   "name": "agarwqod",
   "version": "1.0.0",
-  "description": "",
+  "description": "- This project will serve as a testing the practicality and outcomes of ten seedlings under controlled, monitored conditions. Initial efforts allow both the partners and farmers to gain insight into the specific requirements, challenges, and opportunities of agarwood production.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.3.8"
+    "@tailwindcss/cli": "^4.1.13",
+    "tailwindcss": "^4.1.13"
   }
 }

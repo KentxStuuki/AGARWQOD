@@ -1,27 +1,31 @@
-<div class="bg-light py-5 position-relative">
-    <!-- Top left image -->
-   <!-- Bottom right image -->
-    <img src="../main/images/project_section/rp.png" alt="" class="position-absolute top-0 end-0" style="height: auto; width: auto; max-height: 32vh;" >
+<div class="bg-[var(--third)] py-12 relative overflow-hidden">
+    <!-- Top right image -->
+    <img src="../main/images/project_section/rp.png" alt="top right background image" class="absolute top-0 right-0 max-h-[20vh] sm:max-h-[35vh] h-auto w-auto">
 
     <!-- White content container -->
-    <div class="bg-white mx-auto py-4 border rounded-4 shadow-lg" style="width: 55%; padding: 0 10%; position: relative; z-index: 1;">
-        <h3 class="text-center text-primary fs-1">Project Overview</h3>
-        <div class="px-1 text-primary">
-            <p class="fs-5">
-                <span class="label">Name of Project:</span>
+    <div class="bg-white mx-auto py-6 border rounded-2xl shadow-lg relative z-10 w-[55%] lg:px-[10%] md:px-[6%] sm:px-[4%] px-[4%]">
+        <h3 class="text-center text-[var(--primary)] text-2xl sm:text-3xl md:text-4xl font-semibold">Project Overview</h3>
+        
+        <div class="px-1  text-[var(--primary)] font-semibold pt-6">
+        <p class="text-lg leading-relaxed ">
+            <span class="inline-block lg:w-[180px] md:w-[140px] sm:w-[80px]">Name of Project:</span>
                 <span class="value">Agarwood Farming Partnership</span>
-                <span class="label">Type:</span>
+                <br>
+                <span class="inline-block lg:w-[180px] md:w-[140px] sm:w-[60px]">Type:</span>
                 <span class="value">Agroforestry Collaboration</span>
-                <span class="label">Location:</span>
+                <br>
+                <span class="inline-block lg:w-[180px] md:w-[140px] sm:w-[80px]">Location:</span>
                 <span class="value">Aborlan Palawan</span>
-            </p>
-            <br>
-            <p class="fs-5">
-                <span class="label">Parties Involved:</span>
+        </p>
+
+        <br>
+
+        <p class="text-lg leading-relaxed">
+            <span class="inline-block lg:w-[180px] md:w-[140px] sm:w-[80px]">Parties Involved:</span>
                 <br>
-                <span class="label">Partner(s):</span>
+                <span class="inline-block lg:w-[180px] md:w-[140px] sm:w-[80px]">Partner(s):</span>
                 <br>
-                <span class="label">Farmer/Farm Entity:</span>
+                <span class="inline-block lg:w-[180px] md:w-[140px] sm:w-[80px]">Farmer/Farm Entity:</span>
                 <br>
                 <span class="">Duration:</span>
                 <span class="value"> 5 Years (Cultivation Only)</span>
@@ -29,12 +33,12 @@
                 <span class="">Funding:</span>
                 <span class="value text-center">
                     ₱150,000 (for 10 seedlings at ₱15,000 per seedling 
-                    <span style="padding-left: 14%;"> including land use, labor, inputs)</span>
-                </span>    
+                    <span class="lg:pl-18 pr-0">including land use, labor, inputs)</span>
+                </span>
             </p>
         </div>
     </div>
 
-    <!-- Bottom right image -->
-    <img src="../main/images/project_section/lp.png" alt="" class="position-absolute bottom-0 start-0" style="height: auto; width: auto; max-height: 32vh;"  >
+    <!-- Bottom left image -->
+    <img src="../main/images/project_section/lp.png" alt="Bottom left background image" class="absolute bottom-0 left-0 max-h-[20vh] sm:max-h-[35vh] h-auto w-auto">
 </div>
