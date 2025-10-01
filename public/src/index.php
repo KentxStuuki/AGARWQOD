@@ -28,6 +28,16 @@
 
     <!-- Technical Seciton -->
     <?php include 'components/technical.php' ?>
+
+    <!-- Testimonial Section -->
+    <?php include 'components/testimonial.php'?>
+
+    <!-- Contact Us Section -->
+    <?php include 'components/contactus.php'?>
+
+    <!-- Footer Section -->
+    <?php include 'components/footer.php'?>
+
     <script src="../main/scripts/index.js"></script>
 </body>
 

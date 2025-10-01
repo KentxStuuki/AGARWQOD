@@ -1,4 +1,4 @@
-<div class="text-[var(--primary)]">
+<div class="text-[var(--primary)] my-20">
     <h4 class="text-center text-[var(--primary)] my-14 mb-20 text-4xl sm:text-3xl md:text-3xl font-semibold">Technical
         Feasibility
     </h4>
