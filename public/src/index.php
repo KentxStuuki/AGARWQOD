@@ -6,10 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="../main/style/output.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+    <link rel="stylesheet" href="../node_modules/owl.carousel/dist/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="../node_modules/owl.carousel/dist/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <title>AGARWQOD | Home</title>
+    <script src="../main/scripts/data.js"></script>
+    <script src="../node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="../node_modules/owl.carousel/dist/owl.carousel.min.js"></script>
 </head>
 
 <body>
+    <!-- Navbar -->
+    <?php include 'components/navbar.php' ?>
+
+    <!-- Home Section -->
+    <?php include 'components/home.php' ?>
+
+    <!-- Gallery Section -->
+    <?php include 'components/gallery.php' ?>
+
     <!-- Abstract Seciton -->
     <?php include 'components/abstract.php' ?>
 
