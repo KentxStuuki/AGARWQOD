@@ -450,6 +450,15 @@
   .max-h-\[20vh\] {
     max-height: 20vh;
   }
+  .min-h-\[65vh\] {
+    min-height: 65vh;
+  }
+  .min-h-\[70vh\] {
+    min-height: 70vh;
+  }
+  .min-h-\[75vh\] {
+    min-height: 75vh;
+  }
   .min-h-\[100\%\] {
     min-height: 100%;
   }
@@ -765,6 +774,12 @@
     --tw-gradient-to: #36251B;
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
   }
+  .bg-cover {
+    background-size: cover;
+  }
+  .bg-center {
+    background-position: center;
+  }
   .object-contain {
     object-fit: contain;
   }
@@ -1056,6 +1071,11 @@
       max-height: 35vh;
     }
   }
+  .sm\:min-h-\[75vh\] {
+    @media (width >= 40rem) {
+      min-height: 75vh;
+    }
+  }
   .sm\:w-\[20\%\] {
     @media (width >= 40rem) {
       width: 20%;
@@ -1237,6 +1257,31 @@
       display: none;
     }
   }
+  .md\:min-h-\[65vh\] {
+    @media (width >= 48rem) {
+      min-height: 65vh;
+    }
+  }
+  .md\:min-h-\[68vh\] {
+    @media (width >= 48rem) {
+      min-height: 68vh;
+    }
+  }
+  .md\:min-h-\[70vh\] {
+    @media (width >= 48rem) {
+      min-height: 70vh;
+    }
+  }
+  .md\:min-h-\[72vh\] {
+    @media (width >= 48rem) {
+      min-height: 72vh;
+    }
+  }
+  .md\:min-h-\[75vh\] {
+    @media (width >= 48rem) {
+      min-height: 75vh;
+    }
+  }
   .md\:w-\[40\%\] {
     @media (width >= 48rem) {
       width: 40%;
@@ -1409,9 +1454,19 @@
       margin-inline: calc(var(--spacing) * 2);
     }
   }
+  .lg\:mx-4 {
+    @media (width >= 64rem) {
+      margin-inline: calc(var(--spacing) * 4);
+    }
+  }
   .lg\:mx-40 {
     @media (width >= 64rem) {
       margin-inline: calc(var(--spacing) * 40);
+    }
+  }
+  .lg\:mx-44 {
+    @media (width >= 64rem) {
+      margin-inline: calc(var(--spacing) * 44);
     }
   }
   .lg\:mx-54 {
@@ -1457,6 +1512,16 @@
   .lg\:h-\[600px\] {
     @media (width >= 64rem) {
       height: 600px;
+    }
+  }
+  .lg\:min-h-\[75\%\] {
+    @media (width >= 64rem) {
+      min-height: 75%;
+    }
+  }
+  .lg\:min-h-\[75vh\] {
+    @media (width >= 64rem) {
+      min-height: 75vh;
     }
   }
   .lg\:w-1\/2 {
@@ -1613,9 +1678,19 @@
       min-height: 75%;
     }
   }
+  .xl\:min-h-\[75vh\] {
+    @media (width >= 80rem) {
+      min-height: 75vh;
+    }
+  }
   .xl\:min-h-\[80\%\] {
     @media (width >= 80rem) {
       min-height: 80%;
+    }
+  }
+  .xl\:min-h-\[80vh\] {
+    @media (width >= 80rem) {
+      min-height: 80vh;
     }
   }
   .xl\:min-h-\[100\%\] {

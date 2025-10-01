@@ -49,9 +49,9 @@
     homeContent.innerHTML=`
         <div class="owl-carousel owl-theme">
         ${home_content.map(content => `
-            <div style="background: url('${content.imgpath}'); background-repeat: no-repeat; background-position: center; background-size: cover; width:100%; z-index:-1;" class="text-center text-white pt-8 sm:pt-24 min-h-[100%] xl:min-h-[80%]">
-                <h1 class="mx-2 text-3xl md:text-3xl font-bold pb-5">${content.head}</h1>
-                <p class="mx-2 sm:mx-32 md:mx-38 lg:mx-40 text-lg md:text-2xl">${content.para}</p>
+            <div style="background: url('${content.imgpath}'); background-repeat: no-repeat; background-position: center; background-size: cover; width:100%; z-index:-1;" class="text-center text-white pt-8 sm:pt-24 min-h-[100vh] lg:min-h-[75vh]">
+                <h1 class="mx-2 text-3xl md:text-3xl lg:text-4xl font-bold pb-5">${content.head}</h1>
+                <p class="mx-2 sm:mx-32 md:mx-38 lg:mx-40 text-lg md:text-2xl lg:text-3xl">${content.para}</p>
             </div>
         `).join('')}
         </div>
