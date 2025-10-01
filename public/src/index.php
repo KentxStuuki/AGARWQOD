@@ -26,6 +26,8 @@
     <!-- Financial Seciton -->
     <?php include 'components/financial.php' ?>
 
+    <!-- Technical Seciton -->
+    <?php include 'components/technical.php' ?>
     <script src="../main/scripts/index.js"></script>
 </body>
 

@@ -15,3 +15,34 @@
     width: 100%;            /* full width */
     min-height: 400px;      /* or whatever height you need */
 }
+
+/* Hide default calendar icon */
+.hide-calendar::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+}
+
+.hide-calendar::-webkit-inner-spin-button,
+.hide-calendar::-webkit-clear-button {
+    display: none;
+    -webkit-appearance: none;
+}
+
+.hide-calendar::-moz-calendar-picker-indicator {
+    display: none;
+}
+
+
+/* Style the options */
+.custom-select option {
+    background-color: white; /* background of dropdown */
+    color: #8B5E3C; /* text color */
+    padding: 0.5rem 1rem; /* spacing inside options */
+    font-size: 1rem; /* text size */
+}
+
+/* Hover state for dropdown in some browsers */
+.custom-select option:hover {
+    background-color: #8B5E3C;
+    color: white;
+}
