@@ -22,6 +22,12 @@
     <!-- Home Section -->
     <?php include 'components/home.php' ?>
 
+    <!-- About Us Section -->
+    <?php include 'components/aboutus.php' ?>
+
+    <!-- Mission Vision Section -->
+    <?php include 'components/missionvision.php' ?>
+
     <!-- Gallery Section -->
     <?php include 'components/gallery.php' ?>
 
@@ -45,13 +51,13 @@
     <?php include 'components/technical.php' ?>
 
     <!-- Testimonial Section -->
-    <?php include 'components/testimonial.php'?>
+    <?php include 'components/testimonial.php' ?>
 
     <!-- Contact Us Section -->
-    <?php include 'components/contactus.php'?>
+    <?php include 'components/contactus.php' ?>
 
     <!-- Footer Section -->
-    <?php include 'components/footer.php'?>
+    <?php include 'components/footer.php' ?>
 
     <script src="../main/scripts/index.js"></script>
 </body>

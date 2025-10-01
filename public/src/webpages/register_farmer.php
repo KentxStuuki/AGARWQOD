@@ -207,7 +207,7 @@
                     </p>
 
                     <button
-                        class="mt-12 px-30 py-4 bg-[var(--primary)] text-white rounded-full self-start block text-xl font-bold">Done</button>
+                        class="mt-12 px-30 py-4 bg-gradient-to-b from-[#896044] to-[#36251B] text-white rounded-full self-start block text-xl font-bold">Done</button>
                 </div>
 
             </div>
