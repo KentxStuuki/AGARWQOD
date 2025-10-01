@@ -28,7 +28,7 @@
   right: 0;
 }
 </style>
-<section class="mb-32 sm:mb-24 -mt-4 h-[100vh]">
+<section class="mb-32 sm:mb-24 lg:mb-4 -mt-4 h-[100vh]">
     <div id="home" class="relative">
         <div id="home_carousel"></div>
         <div class="mx-0 md:mx-32">
