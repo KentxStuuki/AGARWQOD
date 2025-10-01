@@ -63,7 +63,7 @@
     }
     .owl-stage {
         padding-top: 1%;
-        padding-bottom: 1%;
+        padding-bottom: 4px;
     }
 </style>
 
@@ -103,10 +103,10 @@
     <div class="owl-controls">
         <div class="custom-nav items-center !hidden md:!flex"></div>
     </div>
-    <div class="custom-dots flex justify-center gap-2 mt-6">
+    <div class="custom-dots flex justify-center gap-2 mt-6 mb-6">
         <div class="dot-custom-nav">
             <button id="customPrev" 
-            class="w-10 h-10 flex items-center justify-center bg-[#896044] rounded">
+            class="w-10 h-10 flex items-center justify-center bg-[#896044]">
             <img src='../main/images/gallery_section/wl-arrow.png' class='w-[15px] mx-auto my-auto'/>
             </button>
         </div>
@@ -123,7 +123,7 @@
 
         <div class="dot-custom-nav">
             <button id="customNext"
-            class="w-10 h-10 flex items-center justify-center bg-[#896044] rounded">
+            class="w-10 h-10 flex items-center justify-center bg-[#896044]">
             <img src='../main/images/gallery_section/wr-arrow.png' class='w-[15px] mx-auto my-auto'/>
             </button>
         </div>
