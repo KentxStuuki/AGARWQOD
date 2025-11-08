@@ -83,7 +83,7 @@
            <div class="flex items-center justify-between align-center">
                 <form class="flex mr-3 my-auto" role="search">
                     <div class="">
-                        <div class="search-wrapper w-[100%]">
+                        <div class="search-wrapper w-full">
                             <input type="text" class="search-input border border-gray-300 rounded-sm px-2 py-1" placeholder="Search">
                             <button class="search-btn bg-[#896044] text-white text-sm rounded cursor-pointer mx-1 my-2" type="submit">
                             <i class="fa fa-search"></i>
