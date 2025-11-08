@@ -47,7 +47,7 @@
             </div>
             <div class="text-xl">
               <strong class="block text-2xl">Phone Number</strong>
-              0912.345.6789
+              09175914370
             </div>
           </div>
 
@@ -58,7 +58,7 @@
             </div>
             <div class="text-xl">
               <strong class="block text-2xl">Email Address</strong>
-              sample@gmail.com
+              info@agarwoodhighlandvalley. com
             </div>
           </div>
 

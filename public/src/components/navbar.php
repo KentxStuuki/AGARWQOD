@@ -62,13 +62,13 @@
                 <div class="bg-white p-2 rounded-full flex justify-center items-center my-auto shadow-md w-[45px] h-[45px] lg:w-[60px] lg:h-[60px]">
                     <img src="../main/images/home_section/con1.png" alt="">
                 </div>
-                <p class="text-lg my-auto">Phone Number <br> <span class="text-xl">0912.345.6789</span></p>
+                <p class="text-lg my-auto">Phone Number <br> <span class="text-xl">09175914370</span></p>
             </div>
             <div class="flex gap-3 items-center">
                 <div class="bg-white p-2 rounded-full flex justify-center items-center my-auto shadow-md  w-[45px] h-[45px] lg:w-[60px] lg:h-[60px]">
                     <img src="../main/images/home_section/ema1.png" alt="" class="">
                 </div>
-                <p class="text-lg my-auto">Email Address <br> <span class="text-xl">sample@gmail.com</span></p>
+                <p class="text-lg my-auto">Email Address <br> <span class="text-xl">info@agarwoodhighlandvalley. com</span></p>
             </div>
         </div>
         <button class="bg-[#896044] text-white rounded-full w-full font-bold text-xl lg:text-2xl px-4 xl:px-20 py-2 hidden md:block remove-padding">Log in</button>

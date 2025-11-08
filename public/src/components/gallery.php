@@ -71,7 +71,7 @@
     <div class="text-center">
         <h1 class="text-3xl font-bold mb-4 text-[#896044]">Gallery</h1>
         <p class="text-lg font-bold">"Our Story in Growth and Impact"</p>
-        <p class="text-lg mx-4 md:mx-32 lg:mx-54 mb-4">Explore our gallery to see the journey of our <span class="font-bold">AGARWOOD HIGHLAND VALLY INC.,</span> from seedling cultivation to community impact. These photos show our progress, sustainability efforts, and the people behind our mission.</p>
+        <p class="text-lg mx-4 md:mx-32 lg:mx-54 mb-4">Explore our gallery to see the journey of our <span class="font-bold">AGARWOOD HIGHLAND VALLEY INC.,</span> from seedling cultivation to community impact. These photos show our progress, sustainability efforts, and the people behind our mission.</p>
         <ul class="flex flex-wrap justify-center gap-3 sm:gap-4 lg:gap-8 mb-4 text-[#896044] text-base sm:text-lg cursor-pointer overflow-x-auto px-2">
             <li class="whitespace-nowrap hover:underline">All Photos</li>
             <li class="whitespace-nowrap hover:underline">Seedling Stage</li>
