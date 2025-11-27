@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="../node_modules/owl.carousel/dist/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="../node_modules/owl.carousel/dist/assets/owl.theme.default.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <title>AGARWQOD | Home</title>
+    <title>AGARWOOD | Home</title>
     <script src="../main/scripts/data.js"></script>
     <script src="../node_modules/jquery/dist/jquery.min.js"></script>
     <script src="../node_modules/owl.carousel/dist/owl.carousel.min.js"></script>
