@@ -10,7 +10,7 @@
             Financial Plan
         </h4>
 
-        <div class="overflow-x-auto w-full sm:w-[90%] md:w-[60%] p-4 sm:p-6 shadow-2xl rounded-2xl mx-auto bg-white">
+        <!-- <div class="overflow-x-auto w-full sm:w-[90%] md:w-[60%] p-4 sm:p-6 shadow-2xl rounded-2xl mx-auto bg-white">
             <table class="min-w-full border border-black text-[var(--primary)] text-sm sm:text-base md:text-lg">
                 <thead>
                     <tr class="text-center">
@@ -38,6 +38,40 @@
                     <tr class="font-semibold bg-gray-50">
                         <td class="border border-black px-2 sm:px-4 py-2">Total Project Cost</td>
                         <td class="border border-black px-2 sm:px-4 py-2 text-right">₱ 150,000</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div> -->
+        <div class="overflow-x-auto w-full sm:w-[90%] md:w-[60%] p-4 sm:p-6 shadow-2xl rounded-2xl mx-auto bg-white">
+            <table class="min-w-full border border-black text-[var(--primary)] text-sm sm:text-base md:text-lg">
+                <thead>
+                    <tr class="text-center">
+                        <th class="border border-black px-2 sm:px-4 py-2 sm:py-3">Category</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="border border-black px-2 sm:px-4 py-2">Cost of 10 Agarwood Seedlings</td>
+                    </tr>
+                    <tr>
+                        <td class="border border-black px-2 sm:px-4 py-2">Labor and Maintenance (5 years)</td>
+                    </tr>
+                    <tr>
+                        <td class="border border-black px-2 sm:px-4 py-2">Soil Preparation & Farm Inputs</td>
+                    </tr>
+                    <tr>
+                        <td class="border border-black px-2 sm:px-4 py-2">Monitoring/Reporting/Admin Costs</td>
+                    </tr>
+                    <!-- <tr class="font-semibold bg-gray-50">
+                        <td class="border border-black px-2 sm:px-4 py-2 text-right">Total Project Cost: ₱ 150,000</td>
+                    </tr> -->
+                    <tr class="font-semibold bg-gray-50">
+                        <td class="border border-black px-2 sm:px-4 py-2">
+                            <div class="flex justify-between w-full">
+                                <span>Total Project Cost:</span>
+                                <span>₱ 150,000</span>
+                            </div>
+                        </td>
                     </tr>
                 </tbody>
             </table>
