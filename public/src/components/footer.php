@@ -51,7 +51,22 @@
     </div>
   </div>
 
-  <div class="text-center bg-white text-[#8B5E3C] py-3 mt-4">
-    <small>© 2025 Agarwood Highland Valley Inc. - All Rights Reserved</small>
+  <div class="bg-white text-[#8B5E3C] py-3 mt-4">
+    <div class="container mx-auto px-4 flex justify-between items-center">
+
+      <!-- Left (same style as original) -->
+      <small class="text-sm">
+        © 2025 Agarwood Highland Valley Inc. - All Rights Reserved
+      </small>
+
+      <!-- Right (same size/style) -->
+      <small class="text-sm">
+        <a href="https://bb88advertising.com/" target="_blank" class="hover:underline">
+          Designed & Developed by BB 88 Advertising and Digital Solutions Inc.
+        </a>
+      </small>
+
+    </div>
+  </div>
   </div>
 </footer>
